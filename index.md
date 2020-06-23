@@ -34,3 +34,15 @@ My research area is optimization. I am working on optimization over manifold now
     - http://incubit.co.jp/archives/342 
 - 「SoftBank World Challenge 2016」Second place (Jul. 2016 with colleagues in [Incubit](http://incubit.co.jp/))
     - http://incubit.co.jp/archives/422
+
+#### Hobby
+- Tea celemony
+    - Joined the tea celemony club (裏千家)
+        - High school (2012 - 2015)
+        - Tokyo Institute of Technology (2015 - 2017)
+          - I was the club president from Dec. 2016 to Dec. 2017.
+    - 茶道文化検定 2級
+- Mathematics
+  - Convex analysis
+  - Fixed point theory
+  - Geometry
