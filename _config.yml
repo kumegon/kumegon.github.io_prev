@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+minimal_mistakes_skin    : "default" 
+# Site Settings
+locale                   : "ja"
+title                    : Portfolio
+name                     : Keita Kume
+description              : Master student at Tokyo Institute of Technology.
