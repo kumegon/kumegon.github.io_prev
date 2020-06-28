@@ -1,5 +1,5 @@
 ## About me
-My name is Keita Kume (久米 啓太). I am a master student at Tokyo Institute of Technology. My major is information and communications engineering.
+My name is Keita Kume (久米 啓太). I am a master student at Tokyo Institute of Technology (東京工業大学). My major is information and communications engineering.
 
 My research area is optimization. I am working on optimization over manifold now.
 
