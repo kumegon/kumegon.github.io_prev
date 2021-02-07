@@ -5,9 +5,12 @@ My research area is optimization. I am working on optimization over manifold now
 
 ### Publications
 - Peer Reviewed Conference Papers
-  - [K. Kume and I. Yamada, “Adaptive localized Cayley parametrization technique for smooth optimization　over the Stiefel manifold,” 2019 27th European Signal Processing Conference (EUSIPCO), A Coruna, Spain, Sep. 2019](https://ieeexplore.ieee.org/abstract/document/8903097)
-  - [K. Kume and I. Yamada, “A Nesterov-type acceleration with adaptive localized Cayley parametrization for optimization over the Stiefel manifold,” 2020 28th European Signal Processing Conference (EUSIPCO), Amsterdam, Netherlands, Jan. 2021 (accepted)](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0002105.pdf)
+  - K. Kume and I. Yamada, “A global Cayley parametrization of Stiefel manifold
+for direct utilization of optimization mechanisms over vector spaces,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Tronto, Canada, Jun. 2021, Amsterdam, Netherlands, Jan. 2021 (accepter)
+  - [K. Kume and I. Yamada, “A Nesterov-type acceleration with adaptive localized Cayley parametrization for optimization over the Stiefel manifold,” 2020 28th European Signal Processing Conference (EUSIPCO), Amsterdam, Netherlands, Jan. 2021](https://ieeexplore.ieee.org/abstract/document/8903097)
+  - [K. Kume and I. Yamada, “Adaptive localized Cayley parametrization technique for smooth optimization　over the Stiefel manifold,” 2019 27th European Signal Processing Conference (EUSIPCO), A Coruna, Spain, Sept. 2019](https://ieeexplore.ieee.org/abstract/document/8903097)
 - Non-Peer Reviewed Conference Papers
+	- K. Kume and I. Yamada, “A global Cayley parametrization of Stiefel manifold for direct  importing optimization methods over vector space,” 第35回信号処理シンポジウム, 高知, 2021年 11月
   - [久米 啓太, 山田 功, “Adaptive Localized Cayley Parametrizationを利用したStiefel多様体制約付き確率的勾配分散縮小法,” 電子情報通信学会総合大会, 広島, 2020年 3月, ISS-SP-005](https://www.ieice.org/~iss/jpn/Publications/issposter_2020/data/pdf/ISS-SP-005.pdf)
 
 ### Education
@@ -42,7 +45,3 @@ My research area is optimization. I am working on optimization over manifold now
         - Tokyo Institute of Technology (2015 - 2017)
           - I was the club president from Dec. 2016 to Dec. 2017.
     - 茶道文化検定 2級
-- Mathematics
-  - Convex analysis
-  - Fixed point theory
-  - Geometry
