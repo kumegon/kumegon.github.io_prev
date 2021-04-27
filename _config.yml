@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "default"
 # Site Settings
 locale                   : "ja"
 title                    : Keita Kume 
-description              : Master student at Tokyo Institute of Technology (東京工業大学).
+description              : Ph.D student at Tokyo Institute of Technology, JSPS research fellow (DC1)
 
 plugins:
  - jekyll-sitemap
