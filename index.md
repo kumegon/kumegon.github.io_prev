@@ -7,7 +7,7 @@ My research area is optimization. I am working on optimization over Riemannian m
 - Peer Reviewed Conference Papers
   - [K. Kume and I. Yamada, “A global Cayley parametrization of Stiefel manifold
 for direct utilization of optimization mechanisms over vector spaces,” IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Tronto, Canada, Jun. 2021](https://ieeexplore.ieee.org/document/9414157)
-  - [K. Kume and I. Yamada, “A Nesterov-type acceleration with adaptive localized Cayley parametrization for optimization over the Stiefel manifold,” 2020 28th European Signal Processing Conference (EUSIPCO), Amsterdam, Netherlands, Jan. 2021](https://ieeexplore.ieee.org/abstract/document/8903097)
+  - [K. Kume and I. Yamada, “A Nesterov-type acceleration with adaptive localized Cayley parametrization for optimization over the Stiefel manifold,” 2020 28th European Signal Processing Conference (EUSIPCO), Amsterdam, Netherlands, Jan. 2021](https://ieeexplore.ieee.org/document/9287609)
   - [K. Kume and I. Yamada, “Adaptive localized Cayley parametrization technique for smooth optimization　over the Stiefel manifold,” 2019 27th European Signal Processing Conference (EUSIPCO), A Coruna, Spain, Sept. 2019](https://ieeexplore.ieee.org/abstract/document/8903097)
 - Non-Peer Reviewed Conference Papers
 	- K. Kume and I. Yamada, “A global Cayley parametrization of Stiefel manifold for direct importing optimization methods over vector space,” 第35回信号処理シンポジウム, 高知, 2021年 11月
